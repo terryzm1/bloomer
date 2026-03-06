@@ -1,0 +1,33 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# macOS
+.DS_Store
+*.swp
+*~
+.floo
+.flooignore
+
+# Firebase
+# Uncomment if you want to exclude your Firebase config (contains API keys)
+# GoogleService-Info.plist
+
+# Large media files
+*.MOV
+*.mov
+*.mp4
